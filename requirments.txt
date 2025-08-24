@@ -1,4 +1,6 @@
-streamlit==1.37.1
-opencv-contrib-python-headless==4.10.0.84
-numpy>=1.26
+streamlit>=1.36
+# Choose ONE of the two lines below:
+opencv-python-headless==4.8.1.78
+
+numpy<2
 Pillow
